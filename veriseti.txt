@@ -1,0 +1,13 @@
+# Kullanıcılar
+USER 101 Alice
+USER 102 Bob
+USER 103 Charlie
+USER 104 Dave
+USER 105 Eve
+
+# Arkadaşlık ilişkileri
+FRIEND 101 102
+FRIEND 101 103
+FRIEND 102 104
+FRIEND 103 104
+FRIEND 104 105
